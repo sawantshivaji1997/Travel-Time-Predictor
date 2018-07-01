@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TTP</string>
+
+    <string name="route_prompt">Choose Route</string>
+    <string-array name="route_arrays">
+        <item>Ganeshkhind to Pune Station</item>
+        <item>Katraj to Pune Station</item>
+        <item>Boriwali West to Andheri West</item>
+        <item>Hinjewadi to Pimple Saudagar</item>
+        <item>Pimple Saudagar to Hinjewadi</item>
+        <item>Gurgaon to New Delhi</item>
+        <item>Howrah railway Station to Dakshineswar</item>
+        <item>Khairatabad to Alwal</item>
+    </string-array>
+
+    <string name="mot_prompt">Choose Route</string>
+    <string-array name="mot_arrays">
+        <item>CAR</item>
+        <item>BUS</item>
+    </string-array>
+
+
+</resources>
